@@ -3,3 +3,5 @@ i进入insert
 esc shift+:
 wq
 退出
+
+get add . 只会智能添加修改的文件 不必担心
