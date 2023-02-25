@@ -1,0 +1,5 @@
+haha
+i进入insert 
+esc shift+:
+wq
+退出
