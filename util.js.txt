@@ -1,3 +1,6 @@
 公共区域
 
 添加了功能1
+
+
+fix bug fromhaha
