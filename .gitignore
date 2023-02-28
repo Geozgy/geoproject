@@ -1,0 +1,6 @@
+# 注释 gitignore 可以忽略上传文件 
+# 已经暂存在本地的文件，不会被忽略
+# 可以使用通配符 *.txt
+
+node_modules/
+3.html
